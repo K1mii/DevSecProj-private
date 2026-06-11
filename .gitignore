@@ -1,0 +1,20 @@
+# Maven
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Secrets & credentials
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.jks
+.kube/
+
+# OS
+.DS_Store
+Thumbs.db
